@@ -1,0 +1,6 @@
+{
+    "require": {
+        "evilfreelancer/routeros-api-php": "^1.4",
+        "welltime/phpagi": "^2.20"
+    }
+}
