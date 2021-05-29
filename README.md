@@ -12,7 +12,7 @@ Funzionamento del sistema:
 
 *1.* Un utente accede alla vostra rete, ha due scelte, inserire le credenziali oppure registrarsi per avere 15 minuti di prova gratuita.
 
-*2.* Se l'utente sceglie la prova gratuita è costretto a inserire i suoi dati (Nome, Cognome, Email, Numero di telefono) e dopodiché il corrispettivo utente verrà reindirizzato verso la pagina della creazione delle credenziali e della iniezione GET nel browser per evitare le inserisca.
+*2.* Se l'utente sceglie la prova gratuita è costretto a inserire i suoi dati (Nome, Cognome, Email, Numero di telefono), dopodiché il corrispettivo utente verrà reindirizzato verso la pagina della creazione delle credenziali e della iniezione GET nel browser per evitare le inserisca.
 
 *4.* Fine.
 
